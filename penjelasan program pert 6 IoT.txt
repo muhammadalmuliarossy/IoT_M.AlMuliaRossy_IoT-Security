@@ -1,0 +1,3 @@
+1. Device device yang terkoneksi pada wireless router akan dapat diatur melalui laptop.
+2. sama seperti pertemuan sebelumnya, namun pada pertemuan kali ini menggunakan scurity mode
+3. WPA2 dengan enkripsi AES
